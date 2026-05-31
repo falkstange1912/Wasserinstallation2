@@ -122,7 +122,7 @@ export default function App() {
           <p className="text-stone-400 mb-8 uppercase tracking-[0.3em] text-xs font-semibold">Direkte Verbindung</p>
           <div className="flex items-center justify-center gap-6 text-3xl md:text-4xl font-light tracking-tight text-white">
             <Phone className="w-8 h-8 text-[#B87333]" />
-            <span>[Telefonnummer einfügen]</span>
+            <span>05306 7757</span>
           </div>
         </div>
       </section>
