@@ -1,0 +1,6 @@
+{
+  "name": "Wasserinstallationen Pro",
+  "description": "Eine moderne, Conversion-optimierte Landingpage für eine Wasserinstallationsfirma mit starkem Wertversprechen und klarem Call-to-Action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
